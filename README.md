@@ -10,7 +10,6 @@ The analysis investigates multiple financial indicators, including Sales, Cost o
 Project Objective
 
 TechnoEdge needs to stabilize inconsistent financial performance, explore discount strategies, diversify customer base, expand into new markets, and optimize product offerings for better revenue.
-<img width="3081" height="81" alt="image" src="https://github.com/user-attachments/assets/cbf2cd4f-d127-4365-9486-8e2dad46b764" />
 
 The project aims to:
 
