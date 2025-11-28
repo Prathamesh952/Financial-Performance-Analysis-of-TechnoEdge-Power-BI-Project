@@ -1,5 +1,6 @@
 #Financial-Performance-Analysis-of-TechnoEdge-Power-BI-Project
 This project analyzes the financial performance of TechnoEdge using Power BI. It evaluates sales trends, profit, COGS, discounts, product and segment performance, and country-wise sales. The dashboard reveals growth opportunities, high COGS impact, and the need to optimize pricing, expand markets, and improve profitability.
+
 📊 Financial Performance Analysis of TechnoEdge | Power BI
 
 This project presents an in-depth Financial Performance Analysis of TechnoEdge using Power BI. The primary goal is to assess the company’s financial health, analyze sales trends, identify operational challenges, and generate actionable insights that support effective business decision-making.
@@ -7,6 +8,9 @@ This project presents an in-depth Financial Performance Analysis of TechnoEdge u
 The analysis investigates multiple financial indicators, including Sales, Cost of Goods Sold (COGS), Profit, Discount impact, Country-wise revenue distribution, Customer Segment performance, and Product-wise sales trends. These metrics help understand profitability, efficiency, and growth opportunities within the organization.
 
 Project Objective
+
+TechnoEdge needs to stabilize inconsistent financial performance, explore discount strategies, diversify customer base, expand into new markets, and optimize product offerings for better revenue.
+<img width="3081" height="81" alt="image" src="https://github.com/user-attachments/assets/cbf2cd4f-d127-4365-9486-8e2dad46b764" />
 
 The project aims to:
 
